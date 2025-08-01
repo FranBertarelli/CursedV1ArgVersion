@@ -1,0 +1,42 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(524,5): warning MSB8004: El directorio Output no termina con una barra diagonal final. Esta instancia de compilación agregará la barra diagonal porque es necesaria para que se pueda evaluar correctamente el directorio Output.
+cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  Trades.cpp
+  XSocketUDP.cpp
+  XSocket.cpp
+  Wmain.cpp
+  Tile.cpp
+  TeleportLoc.cpp
+  Teleport.cpp
+  StrTok.cpp
+  StrategicPoint.cpp
+  Skill.cpp
+  Rank.cpp
+  QuestList.cpp
+  Quest.cpp
+  Potion.cpp
+  PartyManager.cpp
+  OccupyFlag.cpp
+  Npc.cpp
+  Msg.cpp
+  Misc.cpp
+  Mineral.cpp
+  Generando código...
+  Compilando...
+  Map.cpp
+  Magic.cpp
+  Item.cpp
+  GuildsMan.cpp
+  MapServer.cpp
+  Fish.cpp
+  Event.cpp
+  DynamicObject.cpp
+  DelayEvent.cpp
+  deathmatch.cpp
+  Client.cpp
+  BuildItem.cpp
+  main.cpp
+  Drops.cpp
+  cApplicationStartup.cpp
+  Generando código...
+cApplicationStartup.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/SAFESEH'
+  MapServer.vcxproj -> C:\Users\administrador\Downloads\CursedV1 (Arg Version)\MapServer\MapServer.exe

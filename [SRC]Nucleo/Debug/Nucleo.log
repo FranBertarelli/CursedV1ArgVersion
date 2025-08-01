@@ -1,0 +1,15 @@
+﻿  Account.cpp
+  cApplicationStartup.cpp
+  Client.cpp
+  Game.cpp
+  main.cpp
+  MainLog.cpp
+  Map.cpp
+  MapServer.cpp
+  Msg.cpp
+  Wmain.cpp
+  StrTok.cpp
+  XSocket.cpp
+  Generando código...
+Account.obj : warning LNK4075: se omite '/EDITANDCONTINUE' debido a la especificación '/INCREMENTAL:NO'
+  Nucleo.vcxproj -> C:\Users\administrador\Downloads\CursedV1 (Arg Version)\Nucleo\Nucleo.exe
